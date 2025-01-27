@@ -15,6 +15,12 @@ This project is aimed at creating a Power BI report to present key facts and tre
 - **DAX functions** for data manipulation with calculated measures, columns and tables
 - … and many more!
 
+![](https://github.com/user-attachments/assets/e3f96f47-ed53-426d-ac96-39099a94795a)
+
+![](https://github.com/user-attachments/assets/90710f8f-9785-473e-a6d8-7ea4d73e4cf0)
+
+![](https://github.com/user-attachments/assets/fe7da7ad-cf4f-41a2-b6bf-4c6e543777a7)
+
 ## Data Source
 
 The raw data used in this project can be found [here](https://mavenanalytics.io/data-playground?page=8&pageSize=5) (click on 120 Years of Olympic History). It contains the following files: 
